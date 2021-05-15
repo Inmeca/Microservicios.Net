@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5ZPqfK+pRQ7BNywz4GHDm2I2M4BHmUnbDcLWMkLWlljYW2IGXiKqJul5pTA1Q2B7HD5qhKc+MdOkmoZH0R9bYg==",
+  "success": true,
+  "projectFilePath": "E:\\Ingrid\\AXITY\\Capacitacion\\Microservicios\\.Net\\catalogos-service\\Example.Catalogos.Dtos\\Example.Catalogos.Dtos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ingrid\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
